@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165358649281",
+    "project_id": "test3-daafc",
+    "storage_bucket": "test3-daafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165358649281:android:732f468edadc69a8f67940",
+        "android_client_info": {
+          "package_name": "com.example.test3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFDOrdBbyEpl-kj9KwSZ-ubzZKn5g74U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
