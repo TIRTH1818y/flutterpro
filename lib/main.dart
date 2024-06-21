@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(  backgroundColor: Colors.teal,
-          title: Text("TIRTH"),
+          title: Text("IT TUTORIAL POINT"),
 
           leading: Builder(
             builder: (context) {
